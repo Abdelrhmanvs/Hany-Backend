@@ -1,6 +1,7 @@
 # API Testing Examples (curl + Postman)
 
 Use these examples to test:
+
 - Signup
 - Login
 - Create chat
@@ -10,7 +11,7 @@ Use these examples to test:
 ## Base URL
 
 ```bash
-export BASE_URL="http://localhost:5000/api"
+export BASE_URL="http://localhost:3001/api"
 ```
 
 ---
